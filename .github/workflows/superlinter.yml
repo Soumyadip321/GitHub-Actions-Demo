@@ -1,4 +1,4 @@
-name: Super-Lintter-Demo
+name: Super-Linter
 
 on: [push]
 
